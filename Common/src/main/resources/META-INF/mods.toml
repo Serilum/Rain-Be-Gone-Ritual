@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Rain%20Be%20Gone%20Ritual"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Rain%20Be%20Gone%20Ritual"
 logoFile="icon.png"
 
 [[mods]]
 modId="rainbegoneritual"
-version="3.1"
+version="3.2"
 displayName="Rain Be Gone Ritual"
-displayURL="https://curseforge.com/minecraft/mc-mods/rain-be-gone-ritual"
+displayURL="https://serilum.com/mod/rain-be-gone-ritual"
 authors="Rick South"
 description='''Adds the ability to stop the rain with a multi-block structure ritual.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.rainbegoneritual]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.rainbegoneritual]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"

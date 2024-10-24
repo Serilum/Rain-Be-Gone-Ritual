@@ -1,0 +1,44 @@
+modLoader="javafml"
+loaderVersion="*"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Rain%20Be%20Gone%20Ritual"
+logoFile="icon.png"
+
+[[mods]]
+modId="rainbegoneritual"
+version="3.4"
+displayName="Rain Be Gone Ritual"
+displayURL="https://serilum.com/mod/rain-be-gone-ritual"
+authors="Rick South"
+description='''Adds the ability to stop the rain with a multi-block structure ritual.
+'''
+credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
+
+Alister, Andrean Olgo, aternosorg, Cherriesaurus, kate1073, Michael W. S., Tyler Behl, XAgent   
+
+If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+'''
+
+[[dependencies.rainbegoneritual]]
+    modId="collective"
+    type="required"
+    versionRange="[7.86,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rainbegoneritual]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.2,1.21.3]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.rainbegoneritual]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.0.31,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mixins]]
+    config = "rainbegoneritual.mixins.json"

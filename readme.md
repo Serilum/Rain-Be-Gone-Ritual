@@ -1,13 +1,13 @@
-<h2>Rain Be Gone Ritual</h2>
-<p><a href="https://github.com/Serilum/Rain-Be-Gone-Ritual"><img src="https://serilum.com/assets/data/logo/rain-be-gone-ritual.png"></a></p><h2>Download</h2>
-<p>You can download Rain Be Gone Ritual on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/rain-be-gone-ritual">https://curseforge.com/minecraft/mc-mods/rain-be-gone-ritual</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/rain-be-gone-ritual">https://modrinth.com/mod/rain-be-gone-ritual</a></p>
-<h2>Issue Tracker</h2>
-<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
-<h2>Pull Requests</h2>
-<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
-<h2>Mod Description</h2>
+<h2>Rain Be Gone Ritual</h2>
+<p><a href="https://github.com/Serilum/Rain-Be-Gone-Ritual"><img src="https://serilum.com/assets/data/logo/rain-be-gone-ritual.png"></a></p><h2>Download</h2>
+<p>You can download Rain Be Gone Ritual on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/rain-be-gone-ritual">https://curseforge.com/minecraft/mc-mods/rain-be-gone-ritual</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/rain-be-gone-ritual">https://modrinth.com/mod/rain-be-gone-ritual</a></p>
+<h2>Issue Tracker</h2>
+<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
+<h2>Pull Requests</h2>
+<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
+<h2>Mod Description</h2>
 <p style="text-align:center"><a href="https://serilum.com/" target="_blank" rel="nofollow"><img src="https://github.com/Serilum/.cdn/raw/main/description/header/header.png" alt="" width="838" height="400"></a></p>
 <p style="text-align:center"><a href="https://curseforge.com/members/serilum/projects" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/curseforge.svg" width="200"></a> <a href="https://modrinth.com/user/Serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/modrinth.svg" width="200"></a> <a href="https://patreon.com/serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/patreon.svg" width="200"></a> <a href="https://youtube.com/@serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/youtube.svg" width="200"></a></p>
 <p><strong><span style="font-size:24px">Requires the library mod&nbsp;<a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><strong>&nbsp;&nbsp;&nbsp;This mod is part of <span style="color:#008000"><a style="color:#008000" href="https://curseforge.com/minecraft/modpacks/the-vanilla-experience" target="_blank" rel="nofollow">The Vanilla Experience</a></span> modpack and <span style="color:#006b3f"><a style="color:#006b3f" href="https://curseforge.com/minecraft/mc-mods/serilums-rpg-bundle" target="_blank" rel="nofollow">Serilum's RPG Bundle</a></span> mod.</strong><br><span style="font-size:18px">Rain Be Gone Ritual is a mod which was created to give players in survival a (somewhat) logical way to stop the rain. All you need is some cauldrons, a log and a flint &amp; steel. Place the cauldrons (minimum 4, maximum 8) around the log and set the log on fire. After the ritual there will be a harmless explosion effect, the cauldrons will be filled with water and the rain will stop.&nbsp;See the gif below for the effect.<br><br><span style="font-size:14px"><strong>A GIF showing the effect:</strong></span><br></span></p>

@@ -1,9 +1,9 @@
-package com.natamus.rainbegoneritual;
+package com.serilum.rainbegoneritual;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.rainbegoneritual.neoforge.events.NeoForgeRitualEvent;
-import com.natamus.rainbegoneritual.util.Reference;
+import com.serilum.rainbegoneritual.neoforge.events.NeoForgeRitualEvent;
+import com.serilum.rainbegoneritual.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;

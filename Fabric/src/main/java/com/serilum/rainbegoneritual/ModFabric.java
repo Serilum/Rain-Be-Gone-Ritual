@@ -1,11 +1,11 @@
-package com.natamus.rainbegoneritual;
+package com.serilum.rainbegoneritual;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.rainbegoneritual.events.RitualEvent;
-import com.natamus.rainbegoneritual.util.Reference;
+import com.serilum.rainbegoneritual.events.RitualEvent;
+import com.serilum.rainbegoneritual.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;

@@ -1,6 +1,6 @@
-package com.natamus.rainbegoneritual.forge.events;
+package com.serilum.rainbegoneritual.forge.events;
 
-import com.natamus.rainbegoneritual.events.RitualEvent;
+import com.serilum.rainbegoneritual.events.RitualEvent;
 import net.minecraft.world.entity.Entity;
 import net.minecraftforge.event.entity.living.LivingHurtEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;

@@ -1,6 +1,6 @@
-package com.natamus.rainbegoneritual.neoforge.events;
+package com.serilum.rainbegoneritual.neoforge.events;
 
-import com.natamus.rainbegoneritual.events.RitualEvent;
+import com.serilum.rainbegoneritual.events.RitualEvent;
 import net.minecraft.world.entity.Entity;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.neoforge.event.entity.living.LivingIncomingDamageEvent;

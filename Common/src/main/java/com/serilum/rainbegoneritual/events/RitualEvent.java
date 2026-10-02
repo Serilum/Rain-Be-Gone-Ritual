@@ -1,4 +1,4 @@
-package com.natamus.rainbegoneritual.events;
+package com.serilum.rainbegoneritual.events;
 
 import com.mojang.datafixers.util.Pair;
 import com.natamus.collective.functions.WorldFunctions;

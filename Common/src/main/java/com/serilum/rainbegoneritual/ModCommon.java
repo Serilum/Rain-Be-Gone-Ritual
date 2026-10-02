@@ -1,4 +1,4 @@
-package com.natamus.rainbegoneritual;
+package com.serilum.rainbegoneritual;
 
 
 public class ModCommon {

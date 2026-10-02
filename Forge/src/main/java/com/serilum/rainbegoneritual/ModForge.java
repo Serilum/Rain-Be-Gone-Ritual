@@ -1,9 +1,9 @@
-package com.natamus.rainbegoneritual;
+package com.serilum.rainbegoneritual;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.rainbegoneritual.forge.events.ForgeRitualEvent;
-import com.natamus.rainbegoneritual.util.Reference;
+import com.serilum.rainbegoneritual.forge.events.ForgeRitualEvent;
+import com.serilum.rainbegoneritual.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +28,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeRitualEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeRitualEvent.class);
 	}
 
 	private static void setGlobalConstants() {
